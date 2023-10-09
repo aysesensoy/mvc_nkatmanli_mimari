@@ -11,5 +11,6 @@ namespace EntityLayer.Concrete
         public int HeadingID { get; set; }
         public string HeadingName { get; set; }
         public DateTime HeadingDate { get; set;}
+        public DateTime Changes { get; set;}
     }
 }
