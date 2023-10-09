@@ -13,6 +13,7 @@ namespace EntityLayer.Concrete
         public string WriterSurname { get; set; }
         public string WriterMail { get; set; }
         public string WriterPassword { get; set;}
+        public string WriterPassword2 { get; set; }
 
 
     }
